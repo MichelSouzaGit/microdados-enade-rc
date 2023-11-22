@@ -9,3 +9,5 @@ A análise dos microdados do ENADE está dividida em três Notebooks do Google C
 Os microdados do ENADE podem ser obtidos a partir do seguinte endereço: https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enade.
 
 Para a análise dos microdados feita nos Notebooks disponibilizados neste repositório, não será necessário fazer o download manual de nenhum arquivo, porque os arquivos necessários serão baixados durante a execução dos Notebooks.
+
+Os passos da análise foram explicados nos Notebooks.
