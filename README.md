@@ -11,3 +11,5 @@ Os microdados do ENADE podem ser obtidos a partir do seguinte endereço: https:/
 Para a análise dos microdados feita nos Notebooks disponibilizados neste repositório, não será necessário fazer o download manual de nenhum arquivo, porque os arquivos necessários serão baixados durante a execução dos Notebooks.
 
 Os passos da análise foram explicados nos Notebooks.
+
+Para reproduzir a análise, basta fazer o download dos notebooks e importá-los no Google Colab.
