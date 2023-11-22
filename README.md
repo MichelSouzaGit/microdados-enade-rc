@@ -12,4 +12,4 @@ Para a análise dos microdados feita nos Notebooks disponibilizados neste reposi
 
 Os passos da análise foram explicados nos Notebooks.
 
-Para reproduzir a análise, basta fazer o download dos notebooks e importá-los no Google Colab.
+Para reproduzir a análise, basta fazer o download dos Notebooks e importá-los no Google Colab.
